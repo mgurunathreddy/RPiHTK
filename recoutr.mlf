@@ -1,0 +1,391 @@
+#!MLF!#
+"./mfcc/Test/Agra/1051.rec"
+0 5400000 Agra -3603.174072
+.
+"./mfcc/Test/Agra/1052.rec"
+0 5600000 Agra -3929.752930
+.
+"./mfcc/Test/Agra/1053.rec"
+0 6400000 Agra -4371.673340
+.
+"./mfcc/Test/Agra/1054.rec"
+0 5600000 Agra -3709.818359
+.
+"./mfcc/Test/Agra/1055.rec"
+0 5500000 Agra -4132.334961
+.
+"./mfcc/Test/Agra/1056.rec"
+0 6000000 Agra -4160.705078
+.
+"./mfcc/Test/Agra/1057.rec"
+0 6300000 Agra -4595.338867
+.
+"./mfcc/Test/Agra/1058.rec"
+0 5500000 Agra -4172.584961
+.
+"./mfcc/Test/Agra/1059.rec"
+0 5500000 Agra -3833.740234
+.
+"./mfcc/Test/Agra/1060.rec"
+0 5600000 Agra -4082.977539
+.
+"./mfcc/Test/Agra/1061.rec"
+0 6300000 Agra -4121.989258
+.
+"./mfcc/Test/Agra/1062.rec"
+0 5400000 Agra -3680.129883
+.
+"./mfcc/Test/Agra/1063.rec"
+0 5000000 Agra -3486.040039
+.
+"./mfcc/Test/Aurangabad/1051.rec"
+0 6300000 Aurangabad -4350.729492
+.
+"./mfcc/Test/Aurangabad/1052.rec"
+0 7600000 Aurangabad -5153.920410
+.
+"./mfcc/Test/Aurangabad/1053.rec"
+0 8100000 Aurangabad -5759.830566
+.
+"./mfcc/Test/Aurangabad/1054.rec"
+0 7300000 Aurangabad -5343.803711
+.
+"./mfcc/Test/Aurangabad/1055.rec"
+0 7500000 Aurangabad -5481.664551
+.
+"./mfcc/Test/Aurangabad/1056.rec"
+0 7300000 Aurangabad -5039.466797
+.
+"./mfcc/Test/Aurangabad/1057.rec"
+0 7200000 Aurangabad -5179.566406
+.
+"./mfcc/Test/Aurangabad/1058.rec"
+0 7100000 Aurangabad -5350.086426
+.
+"./mfcc/Test/Aurangabad/1059.rec"
+0 7200000 Aurangabad -4803.839844
+.
+"./mfcc/Test/Aurangabad/1060.rec"
+0 7000000 Aurangabad -5025.891113
+.
+"./mfcc/Test/Aurangabad/1061.rec"
+0 6500000 Aurangabad -4368.660645
+.
+"./mfcc/Test/Aurangabad/1062.rec"
+0 7500000 Aurangabad -4964.315918
+.
+"./mfcc/Test/Aurangabad/1063.rec"
+0 6300000 Aurangabad -4260.041016
+.
+"./mfcc/Test/Bangalore/1051.rec"
+0 5100000 Bangalore -3577.081055
+.
+"./mfcc/Test/Bangalore/1052.rec"
+0 6200000 Bangalore -4252.570801
+.
+"./mfcc/Test/Bangalore/1053.rec"
+0 6500000 Bangalore -4796.841309
+.
+"./mfcc/Test/Bangalore/1054.rec"
+0 5300000 Bangalore -3864.171143
+.
+"./mfcc/Test/Bangalore/1055.rec"
+0 5800000 Bangalore -4556.994629
+.
+"./mfcc/Test/Bangalore/1056.rec"
+0 6100000 Bangalore -4487.901855
+.
+"./mfcc/Test/Bangalore/1057.rec"
+0 6400000 Bangalore -4882.431152
+.
+"./mfcc/Test/Bangalore/1058.rec"
+0 6200000 Bangalore -4528.882324
+.
+"./mfcc/Test/Bangalore/1059.rec"
+0 5800000 Bangalore -4165.601074
+.
+"./mfcc/Test/Bangalore/1060.rec"
+0 6300000 Bangalore -4646.505371
+.
+"./mfcc/Test/Bangalore/1061.rec"
+0 5900000 Bangalore -4223.975586
+.
+"./mfcc/Test/Bangalore/1062.rec"
+0 5400000 Bangalore -3805.764160
+.
+"./mfcc/Test/Bangalore/1063.rec"
+0 5800000 Bangalore -4245.073730
+.
+"./mfcc/Test/Calicut/1051.rec"
+0 6500000 Calicut -4728.698242
+.
+"./mfcc/Test/Calicut/1052.rec"
+0 5700000 Calicut -4430.032715
+.
+"./mfcc/Test/Calicut/1053.rec"
+0 7800000 Calicut -5954.951660
+.
+"./mfcc/Test/Calicut/1054.rec"
+0 5700000 Calicut -4112.767090
+.
+"./mfcc/Test/Calicut/1055.rec"
+0 6200000 Calicut -4473.980957
+.
+"./mfcc/Test/Calicut/1056.rec"
+0 6200000 Calicut -4528.221191
+.
+"./mfcc/Test/Calicut/1057.rec"
+0 5800000 Calicut -4386.028320
+.
+"./mfcc/Test/Calicut/1058.rec"
+0 5600000 Calicut -4097.471680
+.
+"./mfcc/Test/Calicut/1059.rec"
+0 5900000 Calicut -4439.936523
+.
+"./mfcc/Test/Calicut/1060.rec"
+0 5800000 Calicut -4567.624023
+.
+"./mfcc/Test/Calicut/1061.rec"
+0 5600000 Calicut -4152.363281
+.
+"./mfcc/Test/Calicut/1062.rec"
+0 6300000 Calicut -4929.158691
+.
+"./mfcc/Test/Calicut/1063.rec"
+0 5100000 Calicut -4063.281250
+.
+"./mfcc/Test/Chennai/1051.rec"
+0 5300000 Chennai -3541.830322
+.
+"./mfcc/Test/Chennai/1052.rec"
+0 5400000 Chennai -3612.047607
+.
+"./mfcc/Test/Chennai/1053.rec"
+0 5700000 Chennai -4043.910400
+.
+"./mfcc/Test/Chennai/1054.rec"
+0 5400000 Chennai -3979.515625
+.
+"./mfcc/Test/Chennai/1055.rec"
+0 6000000 Chennai -3868.433105
+.
+"./mfcc/Test/Chennai/1056.rec"
+0 6000000 Chennai -3962.053955
+.
+"./mfcc/Test/Chennai/1057.rec"
+0 5700000 Chennai -3873.447754
+.
+"./mfcc/Test/Chennai/1058.rec"
+0 5900000 Chennai -4052.364990
+.
+"./mfcc/Test/Chennai/1059.rec"
+0 5200000 Chennai -3600.786377
+.
+"./mfcc/Test/Chennai/1060.rec"
+0 5000000 Chennai -3543.143555
+.
+"./mfcc/Test/Chennai/1061.rec"
+0 4800000 Chennai -3249.740234
+.
+"./mfcc/Test/Chennai/1062.rec"
+0 5000000 Chennai -3409.564209
+.
+"./mfcc/Test/Chennai/1063.rec"
+0 5100000 Chennai -3482.216797
+.
+"./mfcc/Test/Delhi/1051.rec"
+0 4800000 Delhi -3469.788818
+.
+"./mfcc/Test/Delhi/1052.rec"
+0 5400000 Delhi -3966.938477
+.
+"./mfcc/Test/Delhi/1053.rec"
+0 5800000 Delhi -4107.125488
+.
+"./mfcc/Test/Delhi/1054.rec"
+0 5000000 Delhi -4033.705566
+.
+"./mfcc/Test/Delhi/1055.rec"
+0 5700000 Delhi -4479.316406
+.
+"./mfcc/Test/Delhi/1056.rec"
+0 5700000 Delhi -4437.490234
+.
+"./mfcc/Test/Delhi/1057.rec"
+0 5600000 Delhi -4233.915039
+.
+"./mfcc/Test/Delhi/1058.rec"
+0 5700000 Delhi -4676.536133
+.
+"./mfcc/Test/Delhi/1059.rec"
+0 5400000 Delhi -4347.277344
+.
+"./mfcc/Test/Delhi/1060.rec"
+0 5500000 Delhi -4240.772461
+.
+"./mfcc/Test/Delhi/1061.rec"
+0 5400000 Delhi -4273.333496
+.
+"./mfcc/Test/Delhi/1062.rec"
+0 6700000 Delhi -4872.711914
+.
+"./mfcc/Test/Delhi/1063.rec"
+0 5500000 Delhi -4230.222168
+.
+"./mfcc/Test/Hyderabad/1051.rec"
+0 5900000 Hyderabad -3960.900879
+.
+"./mfcc/Test/Hyderabad/1052.rec"
+0 7100000 Hyderabad -4950.129395
+.
+"./mfcc/Test/Hyderabad/1053.rec"
+0 7800000 Hyderabad -5739.042480
+.
+"./mfcc/Test/Hyderabad/1054.rec"
+0 6400000 Hyderabad -4735.900391
+.
+"./mfcc/Test/Hyderabad/1055.rec"
+0 6800000 Hyderabad -4970.693848
+.
+"./mfcc/Test/Hyderabad/1056.rec"
+0 7400000 Hyderabad -6134.285645
+.
+"./mfcc/Test/Hyderabad/1057.rec"
+0 6400000 Hyderabad -4595.841797
+.
+"./mfcc/Test/Hyderabad/1058.rec"
+0 5800000 Hyderabad -4455.798828
+.
+"./mfcc/Test/Hyderabad/1059.rec"
+0 6800000 Hyderabad -4705.649414
+.
+"./mfcc/Test/Hyderabad/1060.rec"
+0 6600000 Hyderabad -4582.734863
+.
+"./mfcc/Test/Hyderabad/1061.rec"
+0 6600000 Hyderabad -4598.207520
+.
+"./mfcc/Test/Hyderabad/1062.rec"
+0 6300000 Hyderabad -4224.076172
+.
+"./mfcc/Test/Hyderabad/1063.rec"
+0 6900000 Hyderabad -4676.307129
+.
+"./mfcc/Test/Jaipur/1051.rec"
+0 5900000 Jaipur -4220.995605
+.
+"./mfcc/Test/Jaipur/1052.rec"
+0 5800000 Jaipur -4045.713379
+.
+"./mfcc/Test/Jaipur/1053.rec"
+0 6600000 Jaipur -4167.837402
+.
+"./mfcc/Test/Jaipur/1054.rec"
+0 5600000 Jaipur -4058.714111
+.
+"./mfcc/Test/Jaipur/1055.rec"
+0 7000000 Jaipur -4915.088379
+.
+"./mfcc/Test/Jaipur/1056.rec"
+0 6300000 Jaipur -4436.367188
+.
+"./mfcc/Test/Jaipur/1057.rec"
+0 6100000 Jaipur -4499.984375
+.
+"./mfcc/Test/Jaipur/1058.rec"
+0 5900000 Jaipur -3979.231445
+.
+"./mfcc/Test/Jaipur/1059.rec"
+0 6400000 Jaipur -4358.054688
+.
+"./mfcc/Test/Jaipur/1060.rec"
+0 6500000 Jaipur -4333.433105
+.
+"./mfcc/Test/Jaipur/1061.rec"
+0 6800000 Jaipur -4900.469238
+.
+"./mfcc/Test/Jaipur/1062.rec"
+0 6300000 Jaipur -4648.538086
+.
+"./mfcc/Test/Jaipur/1063.rec"
+0 6300000 Jaipur -4422.433105
+.
+"./mfcc/Test/Lucknow/1051.rec"
+0 4900000 Lucknow -3672.039062
+.
+"./mfcc/Test/Lucknow/1052.rec"
+0 5600000 Lucknow -3980.389893
+.
+"./mfcc/Test/Lucknow/1053.rec"
+0 6300000 Lucknow -4368.512695
+.
+"./mfcc/Test/Lucknow/1054.rec"
+0 6700000 Lucknow -4857.568359
+.
+"./mfcc/Test/Lucknow/1055.rec"
+0 6500000 Lucknow -4707.293457
+.
+"./mfcc/Test/Lucknow/1056.rec"
+0 6200000 Lucknow -4373.621582
+.
+"./mfcc/Test/Lucknow/1057.rec"
+0 5700000 Lucknow -4302.146973
+.
+"./mfcc/Test/Lucknow/1058.rec"
+0 5600000 Lucknow -3930.761963
+.
+"./mfcc/Test/Lucknow/1059.rec"
+0 5200000 Lucknow -3978.944580
+.
+"./mfcc/Test/Lucknow/1060.rec"
+0 5200000 Lucknow -3660.354492
+.
+"./mfcc/Test/Lucknow/1061.rec"
+0 5100000 Lucknow -3863.420654
+.
+"./mfcc/Test/Lucknow/1062.rec"
+0 6700000 Lucknow -4912.730957
+.
+"./mfcc/Test/Lucknow/1063.rec"
+0 5500000 Lucknow -3991.933838
+.
+"./mfcc/Test/Mumbai/1051.rec"
+0 4900000 Mumbai -3201.818604
+.
+"./mfcc/Test/Mumbai/1052.rec"
+0 4200000 Mumbai -2718.412354
+.
+"./mfcc/Test/Mumbai/1053.rec"
+0 5500000 Mumbai -3792.744873
+.
+"./mfcc/Test/Mumbai/1054.rec"
+0 5100000 Mumbai -3560.965332
+.
+"./mfcc/Test/Mumbai/1055.rec"
+0 5900000 Mumbai -3914.051025
+.
+"./mfcc/Test/Mumbai/1056.rec"
+0 6500000 Mumbai -4378.510254
+.
+"./mfcc/Test/Mumbai/1057.rec"
+0 5500000 Mumbai -3639.880859
+.
+"./mfcc/Test/Mumbai/1058.rec"
+0 5800000 Mumbai -4304.996582
+.
+"./mfcc/Test/Mumbai/1059.rec"
+0 5400000 Mumbai -3694.239258
+.
+"./mfcc/Test/Mumbai/1060.rec"
+0 5700000 Mumbai -3829.092041
+.
+"./mfcc/Test/Mumbai/1061.rec"
+0 5700000 Mumbai -3909.808350
+.
+"./mfcc/Test/Mumbai/1062.rec"
+0 4300000 Mumbai -2919.977783
+.
+"./mfcc/Test/Mumbai/1063.rec"
+0 6900000 Mumbai -4672.274414
+.

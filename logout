@@ -1,0 +1,263 @@
+Read 10 physical / 10 logical HMMs
+Read lattice with 13 nodes / 21 arcs
+Created network with 25 nodes / 33 links
+File: ./mfcc/Test/Agra/1051.mfcc
+Agra  ==  [54 frames] -66.7254 [Ac=-3603.2 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Agra/1052.mfcc
+Agra  ==  [56 frames] -70.1742 [Ac=-3929.8 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Agra/1053.mfcc
+Agra  ==  [64 frames] -68.3074 [Ac=-4371.7 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Agra/1054.mfcc
+Agra  ==  [56 frames] -66.2468 [Ac=-3709.8 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Agra/1055.mfcc
+Agra  ==  [55 frames] -75.1334 [Ac=-4132.3 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Agra/1056.mfcc
+Agra  ==  [60 frames] -69.3451 [Ac=-4160.7 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Agra/1057.mfcc
+Agra  ==  [63 frames] -72.9419 [Ac=-4595.3 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Agra/1058.mfcc
+Agra  ==  [55 frames] -75.8652 [Ac=-4172.6 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Agra/1059.mfcc
+Agra  ==  [55 frames] -69.7044 [Ac=-3833.7 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Agra/1060.mfcc
+Agra  ==  [56 frames] -72.9103 [Ac=-4083.0 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Agra/1061.mfcc
+Agra  ==  [63 frames] -65.4284 [Ac=-4122.0 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Agra/1062.mfcc
+Agra  ==  [54 frames] -68.1506 [Ac=-3680.1 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Agra/1063.mfcc
+Agra  ==  [50 frames] -69.7208 [Ac=-3486.0 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Aurangabad/1051.mfcc
+Aurangabad  ==  [63 frames] -69.0592 [Ac=-4350.7 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Aurangabad/1052.mfcc
+Aurangabad  ==  [76 frames] -67.8147 [Ac=-5153.9 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1053.mfcc
+Aurangabad  ==  [81 frames] -71.1090 [Ac=-5759.8 LM=0.0] (Act=22.4)
+File: ./mfcc/Test/Aurangabad/1054.mfcc
+Aurangabad  ==  [73 frames] -73.2028 [Ac=-5343.8 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1055.mfcc
+Aurangabad  ==  [75 frames] -73.0889 [Ac=-5481.7 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1056.mfcc
+Aurangabad  ==  [73 frames] -69.0338 [Ac=-5039.5 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1057.mfcc
+Aurangabad  ==  [72 frames] -71.9384 [Ac=-5179.6 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1058.mfcc
+Aurangabad  ==  [71 frames] -75.3533 [Ac=-5350.1 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1059.mfcc
+Aurangabad  ==  [72 frames] -66.7200 [Ac=-4803.8 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1060.mfcc
+Aurangabad  ==  [70 frames] -71.7984 [Ac=-5025.9 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1061.mfcc
+Aurangabad  ==  [65 frames] -67.2102 [Ac=-4368.7 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Aurangabad/1062.mfcc
+Aurangabad  ==  [75 frames] -66.1909 [Ac=-4964.3 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Aurangabad/1063.mfcc
+Aurangabad  ==  [63 frames] -67.6197 [Ac=-4260.0 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Bangalore/1051.mfcc
+Bangalore  ==  [51 frames] -70.1388 [Ac=-3577.1 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Bangalore/1052.mfcc
+Bangalore  ==  [62 frames] -68.5899 [Ac=-4252.6 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Bangalore/1053.mfcc
+Bangalore  ==  [65 frames] -73.7976 [Ac=-4796.8 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Bangalore/1054.mfcc
+Bangalore  ==  [53 frames] -72.9089 [Ac=-3864.2 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Bangalore/1055.mfcc
+Bangalore  ==  [58 frames] -78.5689 [Ac=-4557.0 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Bangalore/1056.mfcc
+Bangalore  ==  [61 frames] -73.5722 [Ac=-4487.9 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Bangalore/1057.mfcc
+Bangalore  ==  [64 frames] -76.2880 [Ac=-4882.4 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Bangalore/1058.mfcc
+Bangalore  ==  [62 frames] -73.0465 [Ac=-4528.9 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Bangalore/1059.mfcc
+Bangalore  ==  [58 frames] -71.8207 [Ac=-4165.6 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Bangalore/1060.mfcc
+Bangalore  ==  [63 frames] -73.7541 [Ac=-4646.5 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Bangalore/1061.mfcc
+Bangalore  ==  [59 frames] -71.5928 [Ac=-4224.0 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Bangalore/1062.mfcc
+Bangalore  ==  [54 frames] -70.4771 [Ac=-3805.8 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Bangalore/1063.mfcc
+Bangalore  ==  [58 frames] -73.1909 [Ac=-4245.1 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Calicut/1051.mfcc
+Calicut  ==  [65 frames] -72.7492 [Ac=-4728.7 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Calicut/1052.mfcc
+Calicut  ==  [57 frames] -77.7199 [Ac=-4430.0 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Calicut/1053.mfcc
+Calicut  ==  [78 frames] -76.3455 [Ac=-5955.0 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Calicut/1054.mfcc
+Calicut  ==  [57 frames] -72.1538 [Ac=-4112.8 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Calicut/1055.mfcc
+Calicut  ==  [62 frames] -72.1610 [Ac=-4474.0 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Calicut/1056.mfcc
+Calicut  ==  [62 frames] -73.0358 [Ac=-4528.2 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Calicut/1057.mfcc
+Calicut  ==  [58 frames] -75.6212 [Ac=-4386.0 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Calicut/1058.mfcc
+Calicut  ==  [56 frames] -73.1691 [Ac=-4097.5 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Calicut/1059.mfcc
+Calicut  ==  [59 frames] -75.2532 [Ac=-4439.9 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Calicut/1060.mfcc
+Calicut  ==  [58 frames] -78.7521 [Ac=-4567.6 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Calicut/1061.mfcc
+Calicut  ==  [56 frames] -74.1493 [Ac=-4152.4 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Calicut/1062.mfcc
+Calicut  ==  [63 frames] -78.2406 [Ac=-4929.2 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Calicut/1063.mfcc
+Calicut  ==  [51 frames] -79.6722 [Ac=-4063.3 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Chennai/1051.mfcc
+Chennai  ==  [53 frames] -66.8270 [Ac=-3541.8 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Chennai/1052.mfcc
+Chennai  ==  [54 frames] -66.8898 [Ac=-3612.0 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Chennai/1053.mfcc
+Chennai  ==  [57 frames] -70.9458 [Ac=-4043.9 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Chennai/1054.mfcc
+Chennai  ==  [54 frames] -73.6947 [Ac=-3979.5 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Chennai/1055.mfcc
+Chennai  ==  [60 frames] -64.4739 [Ac=-3868.4 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Chennai/1056.mfcc
+Chennai  ==  [60 frames] -66.0342 [Ac=-3962.1 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Chennai/1057.mfcc
+Chennai  ==  [57 frames] -67.9552 [Ac=-3873.4 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Chennai/1058.mfcc
+Chennai  ==  [59 frames] -68.6842 [Ac=-4052.4 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Chennai/1059.mfcc
+Chennai  ==  [52 frames] -69.2459 [Ac=-3600.8 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Chennai/1060.mfcc
+Chennai  ==  [50 frames] -70.8629 [Ac=-3543.1 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Chennai/1061.mfcc
+Chennai  ==  [48 frames] -67.7029 [Ac=-3249.7 LM=0.0] (Act=21.9)
+File: ./mfcc/Test/Chennai/1062.mfcc
+Chennai  ==  [50 frames] -68.1913 [Ac=-3409.6 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Chennai/1063.mfcc
+Chennai  ==  [51 frames] -68.2788 [Ac=-3482.2 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Delhi/1051.mfcc
+Delhi  ==  [48 frames] -72.2873 [Ac=-3469.8 LM=0.0] (Act=21.9)
+File: ./mfcc/Test/Delhi/1052.mfcc
+Delhi  ==  [54 frames] -73.4618 [Ac=-3966.9 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Delhi/1053.mfcc
+Delhi  ==  [58 frames] -70.8125 [Ac=-4107.1 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Delhi/1054.mfcc
+Delhi  ==  [50 frames] -80.6741 [Ac=-4033.7 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Delhi/1055.mfcc
+Delhi  ==  [57 frames] -78.5845 [Ac=-4479.3 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Delhi/1056.mfcc
+Delhi  ==  [57 frames] -77.8507 [Ac=-4437.5 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Delhi/1057.mfcc
+Delhi  ==  [56 frames] -75.6056 [Ac=-4233.9 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Delhi/1058.mfcc
+Delhi  ==  [57 frames] -82.0445 [Ac=-4676.5 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Delhi/1059.mfcc
+Delhi  ==  [54 frames] -80.5051 [Ac=-4347.3 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Delhi/1060.mfcc
+Delhi  ==  [55 frames] -77.1050 [Ac=-4240.8 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Delhi/1061.mfcc
+Delhi  ==  [54 frames] -79.1358 [Ac=-4273.3 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Delhi/1062.mfcc
+Delhi  ==  [67 frames] -72.7270 [Ac=-4872.7 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Delhi/1063.mfcc
+Delhi  ==  [55 frames] -76.9131 [Ac=-4230.2 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Hyderabad/1051.mfcc
+Hyderabad  ==  [59 frames] -67.1339 [Ac=-3960.9 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Hyderabad/1052.mfcc
+Hyderabad  ==  [71 frames] -69.7201 [Ac=-4950.1 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Hyderabad/1053.mfcc
+Hyderabad  ==  [78 frames] -73.5775 [Ac=-5739.0 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Hyderabad/1054.mfcc
+Hyderabad  ==  [64 frames] -73.9984 [Ac=-4735.9 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Hyderabad/1055.mfcc
+Hyderabad  ==  [68 frames] -73.0984 [Ac=-4970.7 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Hyderabad/1056.mfcc
+Hyderabad  ==  [74 frames] -82.8958 [Ac=-6134.3 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Hyderabad/1057.mfcc
+Hyderabad  ==  [64 frames] -71.8100 [Ac=-4595.8 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Hyderabad/1058.mfcc
+Hyderabad  ==  [58 frames] -76.8241 [Ac=-4455.8 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Hyderabad/1059.mfcc
+Hyderabad  ==  [68 frames] -69.2007 [Ac=-4705.6 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Hyderabad/1060.mfcc
+Hyderabad  ==  [66 frames] -69.4354 [Ac=-4582.7 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Hyderabad/1061.mfcc
+Hyderabad  ==  [66 frames] -69.6698 [Ac=-4598.2 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Hyderabad/1062.mfcc
+Hyderabad  ==  [63 frames] -67.0488 [Ac=-4224.1 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Hyderabad/1063.mfcc
+Hyderabad  ==  [69 frames] -67.7726 [Ac=-4676.3 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Jaipur/1051.mfcc
+Jaipur  ==  [59 frames] -71.5423 [Ac=-4221.0 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Jaipur/1052.mfcc
+Jaipur  ==  [58 frames] -69.7537 [Ac=-4045.7 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Jaipur/1053.mfcc
+Jaipur  ==  [66 frames] -63.1491 [Ac=-4167.8 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Jaipur/1054.mfcc
+Jaipur  ==  [56 frames] -72.4770 [Ac=-4058.7 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Jaipur/1055.mfcc
+Jaipur  ==  [70 frames] -70.2155 [Ac=-4915.1 LM=0.0] (Act=22.3)
+File: ./mfcc/Test/Jaipur/1056.mfcc
+Jaipur  ==  [63 frames] -70.4185 [Ac=-4436.4 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Jaipur/1057.mfcc
+Jaipur  ==  [61 frames] -73.7702 [Ac=-4500.0 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Jaipur/1058.mfcc
+Jaipur  ==  [59 frames] -67.4446 [Ac=-3979.2 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Jaipur/1059.mfcc
+Jaipur  ==  [64 frames] -68.0946 [Ac=-4358.1 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Jaipur/1060.mfcc
+Jaipur  ==  [65 frames] -66.6682 [Ac=-4333.4 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Jaipur/1061.mfcc
+Jaipur  ==  [68 frames] -72.0657 [Ac=-4900.5 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Jaipur/1062.mfcc
+Jaipur  ==  [63 frames] -73.7863 [Ac=-4648.5 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Jaipur/1063.mfcc
+Jaipur  ==  [63 frames] -70.1974 [Ac=-4422.4 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Lucknow/1051.mfcc
+Lucknow  ==  [49 frames] -74.9396 [Ac=-3672.0 LM=0.0] (Act=21.9)
+File: ./mfcc/Test/Lucknow/1052.mfcc
+Lucknow  ==  [56 frames] -71.0784 [Ac=-3980.4 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Lucknow/1053.mfcc
+Lucknow  ==  [63 frames] -69.3415 [Ac=-4368.5 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Lucknow/1054.mfcc
+Lucknow  ==  [67 frames] -72.5010 [Ac=-4857.6 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Lucknow/1055.mfcc
+Lucknow  ==  [65 frames] -72.4199 [Ac=-4707.3 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Lucknow/1056.mfcc
+Lucknow  ==  [62 frames] -70.5423 [Ac=-4373.6 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Lucknow/1057.mfcc
+Lucknow  ==  [57 frames] -75.4763 [Ac=-4302.1 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Lucknow/1058.mfcc
+Lucknow  ==  [56 frames] -70.1922 [Ac=-3930.8 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Lucknow/1059.mfcc
+Lucknow  ==  [52 frames] -76.5182 [Ac=-3978.9 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Lucknow/1060.mfcc
+Lucknow  ==  [52 frames] -70.3914 [Ac=-3660.4 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Lucknow/1061.mfcc
+Lucknow  ==  [51 frames] -75.7533 [Ac=-3863.4 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Lucknow/1062.mfcc
+Lucknow  ==  [67 frames] -73.3243 [Ac=-4912.7 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Lucknow/1063.mfcc
+Lucknow  ==  [55 frames] -72.5806 [Ac=-3991.9 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Mumbai/1051.mfcc
+Mumbai  ==  [49 frames] -65.3432 [Ac=-3201.8 LM=0.0] (Act=21.9)
+File: ./mfcc/Test/Mumbai/1052.mfcc
+Mumbai  ==  [42 frames] -64.7241 [Ac=-2718.4 LM=0.0] (Act=21.8)
+File: ./mfcc/Test/Mumbai/1053.mfcc
+Mumbai  ==  [55 frames] -68.9590 [Ac=-3792.7 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Mumbai/1054.mfcc
+Mumbai  ==  [51 frames] -69.8228 [Ac=-3561.0 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Mumbai/1055.mfcc
+Mumbai  ==  [59 frames] -66.3398 [Ac=-3914.1 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Mumbai/1056.mfcc
+Mumbai  ==  [65 frames] -67.3617 [Ac=-4378.5 LM=0.0] (Act=22.2)
+File: ./mfcc/Test/Mumbai/1057.mfcc
+Mumbai  ==  [55 frames] -66.1797 [Ac=-3639.9 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Mumbai/1058.mfcc
+Mumbai  ==  [58 frames] -74.2241 [Ac=-4305.0 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Mumbai/1059.mfcc
+Mumbai  ==  [54 frames] -68.4118 [Ac=-3694.2 LM=0.0] (Act=22.0)
+File: ./mfcc/Test/Mumbai/1060.mfcc
+Mumbai  ==  [57 frames] -67.1771 [Ac=-3829.1 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Mumbai/1061.mfcc
+Mumbai  ==  [57 frames] -68.5931 [Ac=-3909.8 LM=0.0] (Act=22.1)
+File: ./mfcc/Test/Mumbai/1062.mfcc
+Mumbai  ==  [43 frames] -67.9065 [Ac=-2920.0 LM=0.0] (Act=21.8)
+File: ./mfcc/Test/Mumbai/1063.mfcc
+Mumbai  ==  [69 frames] -67.7141 [Ac=-4672.3 LM=0.0] (Act=22.2)
